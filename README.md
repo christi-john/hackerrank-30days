@@ -1,1 +1,1 @@
-# Hackerrank: Python
+# Hackerrank: 30 days of Code
